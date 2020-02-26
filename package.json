@@ -1,0 +1,12 @@
+{
+  "name": "fp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "procedural.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.27.0"
+  }
+}
